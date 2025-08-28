@@ -38,7 +38,9 @@ pip install -r requirements.txt
 
 
 4. Run tests:
-   pytest -v  
+```bash
+pytest -v  
+```
 
 ## 🛠 Technologies
 
