@@ -3,7 +3,7 @@ from selenium.webdriver.chrome.service import Service
 
 
 class BasePage:
-    PATH = r"C:\Users\Ярик\Desktop\AutomationGIT\FirstStepsInAutomation\chromedriver-win64\\"
+    PATH = r"C:\Users\Ярик\Desktop\AutomationGIT\Become-QA-Auto\chromedriver-win64\\"
     DRIVER_NAME = "chromedriver.exe"
     
     def __init__(self):
