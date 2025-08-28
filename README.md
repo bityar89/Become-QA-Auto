@@ -32,7 +32,10 @@ source venv/bin/activate
 
  
 3. Install dependencies:
-   pip install -r requirements.txt  
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 
 4. Run tests:
    pytest -v  
